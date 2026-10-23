@@ -3,10 +3,10 @@
   "kind": "CollaborationExport",
   "topic": "collab.pilot-01",
   "version": "sha256:60059380f967f95c",
-  "web_commit": "b51af27",
+  "web_commit": "36fd5ef",
   "approval": {
-    "by": "Nik Leitgeb (stage A: private staging only, not a publication approval)",
-    "at": "2026-10-23",
+    "by": "Nik Leitgeb",
+    "at": "2026-10-24",
     "scope": [
       "checklist",
       "demo"
