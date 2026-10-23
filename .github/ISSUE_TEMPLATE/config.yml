@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ideas and critique
+    url: https://github.com/CUYOCO-Customize-Your-Comfortzone/cuyoco-collaboration/discussions/categories/ideas
+    about: Approaches, critique and experience go to Discussions.
+  - name: CUYOCO Community (German)
+    url: https://community.cuyoco.com
+    about: Everyday experience without a technical angle.
+  - name: CUYOCO website
+    url: https://cuyoco.com
+    about: Articles, System-Check and contact.

@@ -1,0 +1,26 @@
+{
+  "note": "Synthetic data only. 'Example Bakery Supplies' is fictional; no real organisation, person or customer.",
+  "areas": {
+    "style": {
+      "level": "direct",
+      "entries": {
+        "greeting": "Hello.",
+        "signature": "Your Example Bakery Supplies team"
+      }
+    },
+    "products": {
+      "level": "proposal_only",
+      "entries": {
+        "oven-x.warranty": "24 months",
+        "oven-x.power": "3.5 kW"
+      }
+    },
+    "responsibilities": {
+      "level": "locked",
+      "entries": {
+        "returns": "role:customer-service",
+        "pricing": "role:management"
+      }
+    }
+  }
+}

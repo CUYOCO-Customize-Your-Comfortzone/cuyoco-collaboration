@@ -1,0 +1,48 @@
+{
+  "apiVersion": "cuyoco-web-content/v1",
+  "kind": "CollaborationExport",
+  "topic": "collab.pilot-01",
+  "version": "sha256:60059380f967f95c",
+  "web_commit": "b51af27",
+  "approval": {
+    "by": "Nik Leitgeb (stage A: private staging only, not a publication approval)",
+    "at": "2026-10-23",
+    "scope": [
+      "checklist",
+      "demo"
+    ]
+  },
+  "files": [
+    {
+      "path": "demo/README.md",
+      "sha256": "ddbb8f3dd6bf60e35924e29ed3d231963022443c4bc0265e7a1d5a0093a1cf0e",
+      "license": "MIT",
+      "artifact": "demo"
+    },
+    {
+      "path": "demo/knowledge_gate.py",
+      "sha256": "c422d382346c670ebc3eef1adcf9cbe50fe84eeced556f14f238f607748594b3",
+      "license": "MIT",
+      "artifact": "demo"
+    },
+    {
+      "path": "demo/synthetic_knowledge.json",
+      "sha256": "acd371a6927f6312a905b80dc2b345ac1aa6f1783f5141e62a7d1e9877c3e92e",
+      "license": "MIT",
+      "artifact": "demo"
+    },
+    {
+      "path": "demo/test_knowledge_gate.py",
+      "sha256": "9a9f6fe36392c42f279932c9ad9e0009a395977941d3d19c5f1721a80d424064",
+      "license": "MIT",
+      "artifact": "demo"
+    },
+    {
+      "path": "checklist/checklist.de.md",
+      "sha256": "2d200a7c0b9cc2f7158791ac7dbd484f5a824e8468eb7fbc22db0d0951cd4843",
+      "license": "CC-BY-4.0",
+      "artifact": "checklist"
+    }
+  ],
+  "note": "Selected, reviewed files only: no repository, no commit history, nothing marked internal."
+}

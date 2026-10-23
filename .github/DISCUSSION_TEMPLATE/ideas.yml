@@ -1,0 +1,30 @@
+title: "[Pilot 01] "
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: "Please do not include personal data, customer data or credentials. We store a link and a short excerpt for review."
+  - type: dropdown
+    id: pilot
+    attributes:
+      label: Pilot
+      options: ["01 – AI agents and persistent organisational knowledge", "other"]
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Your idea or critique
+      description: What should change, and why?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or experience
+      description: A reproduction, a reference, or what happened in practice (without confidential details).
+  - type: dropdown
+    id: context
+    attributes:
+      label: Context
+      options: ["small organisation (up to 50 people)", "larger organisation", "research / teaching", "personal project", "prefer not to say"]

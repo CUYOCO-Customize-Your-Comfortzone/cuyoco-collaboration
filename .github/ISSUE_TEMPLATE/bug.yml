@@ -1,0 +1,24 @@
+name: Bug report
+description: A reproducible defect in a published example or tool
+labels: ["bug"]
+body:
+  - type: input
+    id: example
+    attributes:
+      label: Example
+      placeholder: pilot-01/demo
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      description: Synthetic data only, please.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected and actual result
+    validations:
+      required: true
